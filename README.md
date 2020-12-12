@@ -10,9 +10,10 @@ Here are some ideas to get you started:
 ### Stacks I work with ...
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<hr>
 
 ### 🌱 I’m currently learning ...
 
