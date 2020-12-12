@@ -11,8 +11,9 @@ Here are some ideas to get you started:
 
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-## 👯 I’m looking to collaborate on ...
+### 👯 I’m looking to collaborate on ...
 
 - 🤔 I’m looking for help with ...
 
