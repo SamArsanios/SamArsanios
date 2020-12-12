@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<!--
-**SamArsanios/SamArsanios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--**SamArsanios/SamArsanios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
-## 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 - ⚡ Fun fact: ...
--->
