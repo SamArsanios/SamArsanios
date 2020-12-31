@@ -26,6 +26,4 @@
 
 - 📫 How to reach me: ...Always curious to learn cutting edge technology. A bit enthusiast for web development. Competitive coding and motorsports boost my adrenaline.
 
-- 😄 Pronouns: ...
-
 - ⚡ Fun fact: ...
