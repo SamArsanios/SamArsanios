@@ -19,7 +19,7 @@
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;&nbsp;
 
 
-### 👯 I’m looking to collaborate on ...
+<!--### 👯 I’m looking to collaborate on ...
 
 - 🤔 I’m looking for help with ...
 
@@ -27,4 +27,4 @@
 
 - 📫 How to reach me: ...Always curious to learn cutting edge technology. A bit enthusiast for web development. Competitive coding and motorsports boost my adrenaline.
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...-->
